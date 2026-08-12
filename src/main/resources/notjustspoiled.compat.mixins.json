@@ -27,6 +27,8 @@
     "survival_instinct.DrinkMilkProcedureMixin",
     "survival_instinct.GUIMenuMixin",
     "survival_instinct.OrangeItemMixin",
+    "thirstwastaken.PlayerThirstMixin",
+    "thirstwastaken.ThirstHelperMixin",
     "toughasnails.ThirstHandlerMixin",
     "toughasnails.WaterPurifierBlockEntityMixin"
   ]

@@ -208,6 +208,10 @@
     {
       "id": "toughasnails:purified_water_bottle",
       "required": false
+    },
+    {
+      "id": "thirst:terracotta_water_bowl",
+      "required": false
     }
   ]
 }
